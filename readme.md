@@ -21,10 +21,17 @@ $ bundle install
 $ jekyll serve
 ```
 
+### Testing
+Before pushing to github, test your code using:
+```bash
+$ rake test
+```
+
 ## Process
 - Create an Issue
 - Create a `feature/` or `bug/` branch that corresponds with issue
 - Work in that branch
+- Before pushing, test your code.
 - When work is ready, do a PR into `master`
 - When PR is accepted, merge into `master`
 - Merge `master` into branch `gh-pages` and push. 
