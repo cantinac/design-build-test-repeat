@@ -18,8 +18,9 @@ $ bundle install
 
 ### Start server
 ```bash
-$ jekyll serve
+$ jekyll serve --baseurl ''
 ```
+We remove the baseurl on local, so you can run the site `http://0.0.0.0:4000/`. Otherwise the tests choke on the siteurl folder.
 
 ### Testing
 Before pushing to github, test your code using:
