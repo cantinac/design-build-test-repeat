@@ -2,7 +2,6 @@
 layout: episodes
 title:  "Episode 00 - Introductions"
 date:   2016-01-20 09:57:48
-categories: jekyll update
 ---
 _In this Episode:_ Mike and Eric discuss how they got into working with the web, what it's like to enter the web now, and several tools, tips, and tricks folks can use to make building the web easier. 
 
