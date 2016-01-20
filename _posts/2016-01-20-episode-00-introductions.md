@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episodes
 title:  "Episode 00 - Introductions"
 date:   2016-01-20 09:57:48
 categories: jekyll update
