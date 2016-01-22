@@ -36,4 +36,4 @@ $ rake test
 - When work is ready, do a PR into `master`
 - When PR is accepted, merge into `master`
 - Merge `master` into branch `gh-pages` and push. 
-- `gh-pages` is deployed to staging github site [http://mkivikoski.github.io/design-build-test-repeat/](http://mkivikoski.github.io/design-build-test-repeat/)
+- `gh-pages` is deployed to staging github site [http://cantinac.github.io/design-build-test-repeat/](http://cantinac.github.io/design-build-test-repeat/)
