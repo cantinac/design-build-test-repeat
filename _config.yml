@@ -3,7 +3,7 @@ title: Design, Build, Test, Repeat
 email: mkivikoski@cantina.co
 description: > # this means to ignore newlines until "baseurl:"
   Design, Build, Test, Repeat is a Cantina podcast for and about User Interface Design and Development for web applications. Hosted by Eric Bailey and Mike Kivikoski
-baseurl: "/design-build-test-repeat" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dbtr.fm" # the base hostname & protocol for your site
 twitter_username: dbtrpodcast
 github_username:
