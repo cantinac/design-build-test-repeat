@@ -3,6 +3,9 @@ layout: episodes
 title:  "Episode 00 - Introductions"
 date:   2016-01-20 09:57:48
 ---
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243292627&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 _In this Episode:_ Mike and Eric discuss how they got into working with the web, what it's like to enter the web now, and several tools, tips, and tricks folks can use to make building the web easier. 
 
 - [Unicorns](https://irondavy.quora.com/The-Myth-of-the-Myth-of-the-Unicorn-Designer)
