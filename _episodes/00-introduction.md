@@ -18,7 +18,7 @@ _In this Episode:_ Mike and Eric discuss how they got into working with the web,
 - [Responsive design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [FTP sucks](https://en.wikipedia.org/wiki/Continuous_integration)
 - [Stack Overflow](https://www.stackoverflow.com)
-- [HTML & CSS by Jon Duckett](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?s=books&ie=UTF8&qid=1453222560&)sr=1-1
+- [HTML & CSS by Jon Duckett](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?s=books&ie=UTF8&qid=1453222560&)
 - [CSS Preprocessors](http://blog.teamtreehouse.com/how-to-choose-the-right-css-preprocessor)
 - [CodeKit](https://incident57.com/codekit/)
 - [OOCSS, BEM, SMACSS, ETC](http://www.leemunroe.com/css/)
