@@ -29,11 +29,11 @@ $ rake test
 
 ## Process for adding new podcast
 - Create branch `feature/episode-<##>-<episode-name>` 
-- Create a new post `.md` file  in `/_posts` called `<year>-<month>-<day>-episode-<##>-<episode_name>.md`
+- Create a new episode markdown file  in `/_episode` called `<##>-<episode_name>.md`
 - Paste in the Soundcloud iframe, changing the height to `250`
-- Add _In this Episode:_ description
+- Add _In this Episode:_ description to the `summary` metadata and content
 - Add show note links
-- For a template guide, here is [Episode 00](http://dbtr.fm/2016/01/20/episode-00-introductions.html)
+- (For a template guide, view `_episodes/00-introduction.md`)
 - Before pushing, test your code.
 - Create a PR, and wait for a LGTM or thumbsup
 - When PR is accepted, merge into `master`
