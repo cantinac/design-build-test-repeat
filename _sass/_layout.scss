@@ -207,6 +207,13 @@
     }
 }
 
+.episode-summary{
+    &:before {
+        content: attr(data-episode-prefix);
+        font-style: italic;
+    }
+}
+
 .episode-content {
     margin-bottom: $spacing-unit;
 
