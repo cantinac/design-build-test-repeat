@@ -14,7 +14,7 @@ permalink: /episodes/
       <p class="episode-meta">{{ episode.date | date: "%b %-d, %Y" }}</p>
     </header>
 
-    <article class="episode-content" data-episode-prefix="In This Episode: ">
+    <article class="episode-summary" data-episode-prefix="In This Episode: ">
       {{ episode.summary }}
     </article>
   </li>

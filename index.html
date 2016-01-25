@@ -33,6 +33,10 @@ layout: default
         <h2>
           <a class="episode-link" href="{{ episode.url | prepend: site.baseurl }}">{{ episode.title }}</a>
         </h2>
+
+        <article class="episode-summary" data-episode-prefix="In This Episode: ">
+          {{ episode.summary }}
+        </article>
       </li>
     
     {% endfor %}
