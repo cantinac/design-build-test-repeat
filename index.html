@@ -6,20 +6,20 @@ layout: default
 
   <h1 class="page-heading">Current Episode</h1>
 
-  <ul class="post-list">
+  <ul class="episode-list">
     
-    {% for post in site.posts limit:1 %}
-      <li class="post">
+    {% for episode in site.episodes limit:1 %}
+      <li class="episode">
 
-        <header class="post-header">
+        <header class="episode-header">
           <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="episode-link" href="{{ episode.url | prepend: site.baseurl }}">{{ episode.title }}</a>
           </h2>
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+          <p class="episode-meta">{{ episode.date | date: "%b %-d, %Y" }}</p>
         </header>
 
-        <article class="post-content">
-          {{ post.content }}
+        <article class="episode-content">
+          {{ episode.content }}
         </article>
 
       </li>
@@ -27,11 +27,11 @@ layout: default
 
     <!-- <h1 class="page-heading">Previous Episode</h1> -->
 
-    {% for post in site.posts offset:1 %}
+    {% for episode in site.episodes offset:1 limit:4 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="episode-meta">{{ episode.date | date: "%b %-d, %Y" }}</span>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="episode-link" href="{{ episode.url | prepend: site.baseurl }}">{{ episode.title }}</a>
         </h2>
       </li>
     
