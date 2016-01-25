@@ -7,7 +7,7 @@ This is a [Jekyll](https://jekyllrb.com/) blog, that hosts the Design, Build, Te
 ### Clone repo.
 
 ```bash
-$ git clone git@github.com:mkivikoski/design-build-test-repeat.git && cd design-build-test-repeat
+$ git clone git@github.com:cantinac/design-build-test-repeat.git && cd design-build-test-repeat
 ```
 
 ### Install required gems:
@@ -18,22 +18,34 @@ $ bundle install
 
 ### Start server
 ```bash
-$ jekyll serve --baseurl ''
+$ jekyll serve
 ```
-We remove the baseurl on local, so you can run the site `http://0.0.0.0:4000/`. Otherwise the tests choke on the siteurl folder.
 
-### Testing
+## Testing
 Before pushing to github, test your code using:
 ```bash
 $ rake test
 ```
 
-## Process
+## Process for adding new podcast
+- Create branch `feature/episode-<##>-<episode-name>` 
+- Create a new post `.md` file  in `/_posts` called `<year>-<month>-<day>-episode-<##>-<episode_name>.md`
+- Paste in the Soundcloud iframe, changing the height to `250`
+- Add _In this Episode:_ description
+- Add show note links
+- For a template guide, here is [Episode 00](http://dbtr.fm/2016/01/20/episode-00-introductions.html)
+- Before pushing, test your code.
+- Create a PR, and wait for a LGTM or thumbsup
+- When PR is accepted, merge into `master`
+- Master is auto deployed to [http://dbtr.fm](http://dbtr.fm) (may take a few minutes)
+- Delete your branch
+
+## Process for contributing
 - Create an Issue
 - Create a `feature/` or `bug/` branch that corresponds with issue
 - Work in that branch
 - Before pushing, test your code.
-- When work is ready, do a PR into `master`
+- Create a PR, and wait for a LGTM or thumbsup
 - When PR is accepted, merge into `master`
-- Merge `master` into branch `gh-pages` and push. 
-- `gh-pages` is deployed to staging github site [http://cantinac.github.io/design-build-test-repeat/](http://cantinac.github.io/design-build-test-repeat/)
+- Master is auto deployed to [http://dbtr.fm](http://dbtr.fm) (may take a few minutes)
+- Delete your branch
