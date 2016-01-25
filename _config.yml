@@ -10,3 +10,8 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+# Etc
+collections:
+    episodes:
+        output: true
