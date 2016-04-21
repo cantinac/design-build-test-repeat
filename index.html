@@ -7,8 +7,8 @@ layout: default
   <h1 class="page-heading">Current Episode</h1>
 
   <ul class="episode-list">
-    
-    {% for episode in site.episodes limit:1 %}
+    {% assign episodes = site.episodes | reverse %}
+    {% for episode in episodes limit:1  %}
       <li class="episode">
 
         <header class="episode-header">
@@ -25,9 +25,9 @@ layout: default
       </li>
     {% endfor %}
 
-    <!-- <h1 class="page-heading">Previous Episode</h1> -->
+    <h1 class="page-heading">Previous Episode</h1>
 
-    {% for episode in site.episodes offset:1 limit:4 %}
+    {% for episode in episodes offset:1 limit:4 %}
       <li>
         <span class="episode-meta">{{ episode.date | date: "%b %-d, %Y" }}</span>
         <h2>
