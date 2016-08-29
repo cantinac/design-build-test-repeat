@@ -23,7 +23,6 @@ _Links will open in a new tab._
 - [HTML & CSS by Jon Duckett](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?s=books&ie=UTF8&qid=1453222560&){:target="_blank"}
 - [CSS Preprocessors](http://blog.teamtreehouse.com/how-to-choose-the-right-css-preprocessor){:target="_blank"}
 - [CodeKit](https://incident57.com/codekit/){:target="_blank"}
-- [OOCSS, BEM, SMACSS, ETC](http://www.leemunroe.com/css/){:target="_blank"}
 - [CSS-Tricks](https://css-tricks.com/){:target="_blank"}
 - [CodePen](http://codepen.io/){:target="_blank"}
 - [Design in the browser](http://webdesign.tutsplus.com/articles/tips-for-designing-in-the-browser--webdesign-10340){:target="_blank"}
