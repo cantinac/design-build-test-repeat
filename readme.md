@@ -20,6 +20,10 @@ $ bundle install
 ```bash
 $ jekyll serve
 ```
+or
+```bash
+$ bundle exec Jekyll serve
+```
 
 ## Testing
 Before pushing to github, test your code using:
@@ -28,7 +32,7 @@ $ rake test
 ```
 
 ## Process for adding new podcast
-- Create branch `feature/episode-<##>-<episode-name>` 
+- Create branch `feature/episode-<##>-<episode-name>`
 - Create a new episode markdown file  in `/_episode` called `<##>-<episode_name>.md`
 - Paste in the Soundcloud iframe, changing the height to `250`
 - Add _In this Episode:_ description to the `summary` metadata and content
