@@ -5,7 +5,7 @@ date:   2017-01-24 14:56:23
 summary: Mike and Eric talk about what it means to not know things
 ---
 
-IFRAME PLACEHOLDER
+<iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304323554&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 _In this Episode:_ Mike and Eric talk about what it means to not know things
 
