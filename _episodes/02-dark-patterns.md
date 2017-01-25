@@ -19,7 +19,7 @@ _Links will open in a new tab._
 
 - [Cantina](http://cantina.co){:target="_blank"} 0:57
 - [Dark Patterns](http://darkpatterns.org){:target="_blank"} 6:10
-- [Call to Cancel](http://customer.xfinity.com/help-and-support/internet/cancel-my-xfinity-services){:target="_blank"} 8:00
+- [Call to Cancel](/static_files/02-dark-patterns-comcast-screenshot.png){:target="_blank"} 8:00
 - [Quickfix](https://en.wikipedia.org/wiki/Hotfix){:target="_blank"} 9:57
 - [Having Empathy for Users](https://en.wikipedia.org/wiki/Empathic_design){:target="_blank"} 10:27
 - [Close Example](https://rationalconspiracy.com/2016/04/24/dark-patterns-by-the-boston-globe/){:target="_blank"} 10:47

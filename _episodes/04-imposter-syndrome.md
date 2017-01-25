@@ -20,7 +20,7 @@ _Links will open in a new tab._
 - [Sam Moore](https://cantina.co/team/sam-moore/){:target="_blank"} 02:15
 - [Automated accessibility tools](https://github.com/dequelabs/axe-core){:target="_blank"} 03:07
 - [EditorConfig](http://editorconfig.org/){:target="_blank"} 00:11
-- [Imposter Syndrome](URL){:target="_blank"} 04:40
+- [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome){:target="_blank"} 04:40
 - [I’m an Impostor: davidwalsh.name](https://davidwalsh.name/impostor-syndrome){:target="_blank"} 05:56
 - [XKCD: Duty Calls](https://xkcd.com/386/){:target="_blank"} 06:29
 - [Impostor Syndrome: The One Challenge Developers Don't Talk About](http://product.hubspot.com/blog/engineering-challenge-impostor-syndrome){:target="_blank"} 08:24
@@ -29,7 +29,6 @@ _Links will open in a new tab._
 - [Design is a Job](https://abookapart.com/products/design-is-a-job){:target="_blank"} 10:30
 - [I finally made sense of front end build tools. You can, too.](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.j7og413c3){:target="_blank"} 11:20
 - [Mentok the Mindtaker](https://www.youtube.com/watch?v=t-klQ-kpq98){:target="_blank"} 12:22
-- [@erowidrecruiter](https://twitter.com/erowidrecruiter/){:target="_blank"} 14:52
 - [A Look at Some CSS Methodologies](http://sixrevisions.com/css/css-methodologies/){:target="_blank"} 15:46
 - [Knowledge Hoarders vs. Knowledge Sharers](http://blog.sumtotalsystems.com/knowledge-hoarders-vs-knowledge-sharers/){:target="_blank"} 18:28
 - [How to write good README and why should you care](https://thejunkland.com/blog/how-to-write-good-readme.html){:target="_blank"} 21:13

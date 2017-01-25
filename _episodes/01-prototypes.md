@@ -25,7 +25,7 @@ _Links will open in a new tab._
 - [Using Keynote in design sprints](https://library.gv.com/the-product-design-sprint-prototype-day-4-ebab764ac69f#.n5b3s4v21){:target="_blank"} 9:55
 - [Codepen](http://codepen.io/){:target="_blank"} 11:57
 - [Slack](https://slack.com/){:target="_blank"} 14:15
-- [Atomic](https://atomic.io/){:target="_blank"}, [Principle](http://principleformac.com){:target="_blank"}, [FramerJS](http://framerjs.com){:target="_blank"}, [Origami](https://facebook.github.io/origami/){:target="_blank"}  15:58
+- [Atomic](https://atomic.io/){:target="_blank"}, [Principle](http://principleformac.com){:target="_blank"}, [FramerJS](http://framerjs.com){:target="_blank"}, [Origami](http://origami.design/){:target="_blank"}  15:58
 - [Grumpy Eric](http://giphy.com/gifs/depressed-birthday-grumpy-cat-gSotjAQJmPTJm){:target="_blank"} 16:30
 - [Building a native app](https://cantina.co/webinar-recap-five-ingredients-successful-mobile-projects/){:target="_blank"} 1730
 - [Finger guns](http://giphy.com/gifs/broadcity-broad-city-abbi-abrams-bc3-l3V0HT4Mf7jrpDQRy){:target="_blank"} 17:50 
