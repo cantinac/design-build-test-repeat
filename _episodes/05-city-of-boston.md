@@ -18,7 +18,7 @@ _In this Episode:_ Mike and Eric interview Hondo, developer for the brand new Ci
 _Links will open in a new tab._
 
 - [Hondo!](https://twitter.com/matthewcrist){:target="_blank"} 00:10
-- [Inactive account policy | Twitter Help Center](https://support.twitter.com/articles/15362#){:target="_blank"} 00:54
+- [Inactive account policy: Twitter Help Center](https://support.twitter.com/articles/15362#){:target="_blank"} 00:54
 - [boston.gov](http://boston.gov/){:target="_blank"} 01:39
 - [Uniform Resource Locator](https://en.wikipedia.org/wiki/Uniform_Resource_Locator){:target="_blank"} 02:05
 - [Readability](https://en.wikipedia.org/wiki/Readability){:target="_blank"} 03:20
