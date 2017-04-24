@@ -41,7 +41,7 @@ _Links will open in a new tab._
 - [Single track conference](https://en.wikipedia.org/wiki/Academic_conference#Size){:target="_blank"} 18:27
 - [Liz Abinante - In Defense of Static Sites - CascadiaFest 2016](https://www.youtube.com/watch?v=XsSdUGh50M4){:target="_blank"} 19:54
 - [10k Apart](https://a-k-apart.com/){:target="_blank"} 20:17
-- [How is Mobile App Performance Different From Web Performance?](http://twinprime.com/how-is-mobile-app-performance-different-from-web-performance/){:target="_blank"} 20:40
+- [How is Mobile App Performance Different From Web Performance?](https://www.salesforce.com/blog/2017/03/mobile-app-vs-web-performance.html){:target="_blank"} 20:40
 - [What does my site cost?](https://whatdoesmysitecost.com/){:target="_blank"} 21:48
 - [Internet Society](http://www.internetsociety.org/){:target="_blank"} 22:39
 - [India's $4 smartphone arrives June 30th](https://www.engadget.com/2016/06/26/india-4-dollar-smartphone-ships/){:target="_blank"} 23:12
